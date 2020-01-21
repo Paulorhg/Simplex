@@ -1,2 +1,2 @@
 # Simplex
-Simplex para otimização combinatoria feito em C++
+Simplex para otimização combinatoria, feito em C++
